@@ -1,0 +1,35 @@
+/* Add your custom styles here */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Customize header and footer styles */
+header, footer {
+    color: #fff;
+}
+
+/* Customize product showcase card styles */
+.card {
+    margin-bottom: 20px;
+}
+
+/* Customize category list styles */
+.list-group-item {
+    cursor: pointer;
+}
+
+/* Customize testimonial styles */
+.blockquote {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .card {
+        width: 100%;
+    }
+}
+
